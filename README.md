@@ -48,3 +48,12 @@ Every mat file contains three keys:
 - **gyrData** (1, 3, sequence length): A sequence of the gyroscope readings.
 - **label**(1, sequence length): Action labels for each sample point.
 
+## Citation
+```
+@article{wang2022social,
+  title={Social Distancing Alert with Smartwatches},
+  author={Wang, Xin and Wu, Xilei and Meng, Huina and Fan, Yuhan and Shi, Jingang and Ding, Han and Wang, Fei},
+  journal={arXiv preprint arXiv:2205.06110},
+  year={2022}
+}
+```
