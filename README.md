@@ -11,7 +11,7 @@
 
 ## How to run
 
-0. Download datasource from [here](XXX)
+0. Download datasource from [here](XXX).
 
 1. "git clone" this repository.  
 
