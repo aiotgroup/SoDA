@@ -33,7 +33,7 @@ During the activity conducted, data of accelerometers and gyroscopes as well as 
 
 ### Actions
 
-![18actions](figs/18actions.pdf)
+![18actions](figs/18actions.png)
 
 ### Description
 
@@ -41,7 +41,7 @@ The file name with the format of  "I_J_K.mat".
 
 - **I**(1 - 10): the I-th subject.
 - **J**(1 - 18): the J-th action.
-- **K**(0 - 9): the K-th attempt.
+- **K**(0 - 9): the K-th repetition.
 
 Every mat file contains three keys:
 - **accData**(1, 3, sequence length): A sequence of the accelerometer readings.
